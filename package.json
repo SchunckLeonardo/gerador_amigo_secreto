@@ -1,0 +1,17 @@
+{
+  "name": "amigo-secreto-2023",
+  "version": "1.0.0",
+  "description": "",
+  "main": "amigo_secreto.js",
+  "scripts": {
+    "start": "nodemon amigo_secreto.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "nodemailer": "^6.9.7"
+  }
+}
